@@ -1,0 +1,8 @@
+How to translate?
+1) Download PoEdit.
+2) Open the watilist-woocommerce.pot file in PoEdit. (wp-content/plugins/waitlist-woocommerce/languages/
+   watlist-woocommerce.pot)
+3) Create new translation & translate the text.
+4) Save the translated file with name "waitlist-woocommerce-Language_code". For eg: German( waitlist-woocommerce-de_DE) , French(waitlist-woocommerce-fr_FR). -- Language code list.
+5) Save Location: Your wordpress directory/wp-content/languages/
+

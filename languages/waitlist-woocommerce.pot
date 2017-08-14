@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Waitlist WooCommerce\n"
+"POT-Creation-Date: 2017-07-03 22:33+0530\n"
+"PO-Revision-Date: 2016-10-29 13:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/xoo-wl-admin.php:452
+msgid "Join Waitlist"
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:103
+msgid "Your Product is Now In Stock."
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:122
+#, php-format
+msgid ""
+"You requested to be notified when %s was back in stock and available for "
+"order."
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:123
+msgid ""
+"We are extremely pleased to announce that the product is now available for "
+"purchase. Please act fast, as the item may only be available in limited "
+"quantities."
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:127
+msgid "BUY NOW"
+msgstr ""
+
+#: templates/xoo-wl-form.php:25
+msgid "You need to Login for joining waitlist."
+msgstr ""
+
+#: templates/xoo-wl-form.php:36
+msgid ""
+"We will inform you when the product arrives in stock. Just leave your valid "
+"email address below."
+msgstr ""
+
+#: templates/xoo-wl-form.php:40 templates/xoo-wl-form.php:41
+msgid "Email"
+msgstr ""
+
+#: templates/xoo-wl-form.php:45
+msgid "Quantity"
+msgstr ""
+
+#: templates/xoo-wl-form.php:46
+msgid "Quantity required"
+msgstr ""
+
+#: templates/xoo-wl-form.php:50
+msgid "We won't share your address with anybody else."
+msgstr ""
+
+#: templates/xoo-wl-form.php:51
+msgid "Email me when available"
+msgstr ""
+
+#: templates/xoo-wl-mail.php:40
+#, php-format
+msgid "%s is back in stock"
+msgstr ""
+
+#: xoo-wl-main.php:24
+msgid "Please verfiy you are a human."
+msgstr ""
+
+#: xoo-wl-main.php:40 xoo-wl-main.php:108
+msgid "Email address cannot be empty."
+msgstr ""
+
+#: xoo-wl-main.php:41
+msgid "Minimum quantity: 1"
+msgstr ""
+
+#: xoo-wl-main.php:113
+msgid "Invalid Quantity."
+msgstr ""
+
+#: xoo-wl-main.php:119
+msgid "Please enter valid email address."
+msgstr ""
+
+#: xoo-wl-main.php:139
+msgid "Product is already in stock. You can add to cart."
+msgstr ""
+
+#: xoo-wl-main.php:152
+msgid "You are already in waitlist."
+msgstr ""
+
+#: xoo-wl-main.php:161
+msgid ""
+"You are now in waitlist. We will inform you as soon as we are back in stock."
+msgstr ""
